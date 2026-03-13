@@ -1,0 +1,6 @@
+{
+    "window_size": 20,
+    "n_features": 4,
+    "anomaly_threshold": 0.0035,
+    "sampling_rate_hz": 20000
+}
